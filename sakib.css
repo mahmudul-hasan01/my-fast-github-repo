@@ -62,3 +62,8 @@ button{
     border-radius: 20%;
     cursor: pointer;
 }
+button:hover{
+    background-color: rgba(205, 221, 59, 0.637);
+    color: rgb(14, 1, 22);
+    transition: all 1s;
+}
